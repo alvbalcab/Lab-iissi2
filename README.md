@@ -2,4 +2,4 @@
 
 Ex-DiscountCode: https://github.com/marrivbec/Ex-DiscountCode
 
-Ex-SortProductByPrice: 
+Ex-SortProductByPrice: https://github.com/marrivbec/Ex-SortProductByPrice
