@@ -9,3 +9,5 @@ Ex-AddCategory: https://github.com/marrivbec/Ex-AddCategory
 Ex-Descuento: https://github.com/marrivbec/Ex-Descuento
 
 Ex-Pinned: https://github.com/marrivbec/Ex-Pinned
+
+Ex-Promocion y Descuento:
