@@ -11,5 +11,7 @@ Ex-Descuento: https://github.com/marrivbec/Ex-Descuento
 Ex-Pinned: https://github.com/marrivbec/Ex-Pinned
 
 Ex-Promocion y Descuento: https://github.com/marrivbec/Ex-PromocionYDescuento
+  -Arreglar
 
-Ex- AperturaRestaurante: 
+Ex- AperturaRestaurante: https://github.com/marrivbec/Ex-AperturaRestaurante
+  - Arreglar
