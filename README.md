@@ -1,19 +1,9 @@
 # Repositorio-IISSI2
 
-Ex-DiscountCode: https://github.com/marrivbec/Ex-DiscountCode
+# Examen Simulacro
 
-Ex-SortProductByPrice: https://github.com/marrivbec/Ex-SortProductByPrice
+# Examenes Parciales
 
-Ex-AddCategory: https://github.com/marrivbec/Ex-AddCategory
+# Examenes (con implementaciones utiles) 
 
-Ex-Descuento: https://github.com/marrivbec/Ex-Descuento
 
-Ex-Pinned: https://github.com/marrivbec/Ex-Pinned
-
-Ex-Promocion y Descuento: https://github.com/marrivbec/Ex-PromocionYDescuento
-  -Arreglar
-
-Ex- AperturaRestaurante: https://github.com/marrivbec/Ex-AperturaRestaurante
-  - Arreglar
-
-Ex-MensajeFans: https://github.com/marrivbec/Ex-MensajeFans
