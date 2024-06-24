@@ -11,4 +11,10 @@ Ex-NuevasCategorias: https://github.com/marrivbec/Ex-Nuevas-Categorias
 
 # Examenes (con implementaciones utiles) 
 
+Ex-MensajeParaFans: 
+
+Ex-SortByPrice: 
+
+Ex-RestauranteEconomico: 
+
 
