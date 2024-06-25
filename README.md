@@ -9,6 +9,8 @@ Ex-AperturaRestaurantes: https://github.com/marrivbec/Ex-Apertura-Restaurante
 
 Ex-NuevasCategorias: https://github.com/marrivbec/Ex-Nuevas-Categorias
 
+Ex-Descuento: https://github.com/marrivbec/Ex-Descuento
+
 # Examenes (con implementaciones utiles) 
 
 Ex-MensajeParaFans: 
