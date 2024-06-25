@@ -13,7 +13,7 @@ Ex-Descuento: https://github.com/marrivbec/Ex-Descuento
 
 Ex-Pinned: https://github.com/marrivbec/Ex-Pinned
 
-Ex-Visibilidad:
+Ex-Visibilidad: https://github.com/marrivbec/Ex-Visibilidad
 
 # Examenes (con implementaciones útiles) 
 
