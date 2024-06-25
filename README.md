@@ -15,7 +15,7 @@ Ex-Pinned: https://github.com/marrivbec/Ex-Pinned
 
 Ex-Visibilidad:
 
-# Examenes (con implementaciones utiles) 
+# Examenes (con implementaciones útiles) 
 
 Ex-MensajeParaFans: 
 
