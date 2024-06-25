@@ -11,7 +11,7 @@ Ex-NuevasCategorias: https://github.com/marrivbec/Ex-Nuevas-Categorias
 
 Ex-Descuento: https://github.com/marrivbec/Ex-Descuento
 
-Ex-Pinned: 
+Ex-Pinned: https://github.com/marrivbec/Ex-Pinned
 
 Ex-Visibilidad:
 
