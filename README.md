@@ -19,7 +19,7 @@ Ex-Visibilidad: https://github.com/marrivbec/Ex-Visibilidad
 
 Ex-MensajeParaFans: 
 
-Ex-SortByPrice: 
+Ex-SortByPrice: https://github.com/marrivbec/Ex-SortByPrice
 
 Ex-RestauranteEconomico: 
 
