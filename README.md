@@ -17,7 +17,7 @@ Ex-Visibilidad: https://github.com/marrivbec/Ex-Visibilidad
 
 # Examenes (con implementaciones útiles) 
 
-Ex-MensajeParaFans: 
+Ex-MensajeParaFans: https://github.com/marrivbec/Ex-MensajeParaFans
 
 Ex-SortByPrice: https://github.com/marrivbec/Ex-SortByPrice
 
