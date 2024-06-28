@@ -29,5 +29,5 @@ Ex-MejorasEcosistema: https://github.com/marrivbec/Ex-MejorasEcosistema
 
 Ex-ProductoDestacado: https://github.com/marrivbec/Ex-ProductosDestacados
 
-# RESUMEN PRÁCTICAS LAB
+
 
