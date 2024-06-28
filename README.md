@@ -27,4 +27,5 @@ Ex-PromocionDescuento: https://github.com/marrivbec/Ex-PromocionDescuento
 
 Ex-MejorasEcosistema: https://github.com/marrivbec/Ex-MejorasEcosistema
 
+Ex-ProductoDestacado: https://github.com/marrivbec/Ex-ProductosDestacados
 
