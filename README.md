@@ -21,7 +21,7 @@ Ex-MensajeParaFans: https://github.com/marrivbec/Ex-MensajeParaFans
 
 Ex-SortByPrice: https://github.com/marrivbec/Ex-SortByPrice
 
-Ex-RestauranteEconomico: https://github.com/marrivbec/Ex-RestauranteEconomico
+Ex-RestauranteEconomico: https://github.com/marrivbec/Ex-RestauranteEconomico (NO MUESTRA EL RESTAURANTE MAS BARATO, ARREGLAR)
 
 Ex-PromocionDescuento: https://github.com/marrivbec/Ex-PromocionDescuento
 
