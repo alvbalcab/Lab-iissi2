@@ -37,6 +37,7 @@ Ex-RestauranteEconomico: https://github.com/marrivbec/Ex-RestauranteEconomico
 
 Ex-PromocionDescuento: https://github.com/marrivbec/Ex-PromocionDescuento
 - Cuando nos piden aplicar descuentos o modificaciones al precio de los productos, debemos de crear una nueva propiedad a parte que guarde el contenido del precio base. Posteriormente modificaremos el precio aplicándole sus respectivos cambios, pero el precio base seguirá siendo el mismo. Para poder hacer esto tenemos que cambiar las funciones create (newProduct.basePrice = newProduct.price) y update (req.body.basePrice = req.body.price) de ProductController, en el update se pone con req.body ya que esto nos permite ver la petición del usuario cuando actualiza el restaurante.
+- También se debe de tener en cuenta que no hace falta crear una nueva función en el controller, solamente actualizamos el método update.
 
 Ex-MejorasEcosistema: https://github.com/marrivbec/Ex-MejorasEcosistema
 - En este examen podremos:
