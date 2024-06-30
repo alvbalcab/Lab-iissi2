@@ -1,7 +1,10 @@
 # Repositorio-IISSI2
 https://github.com/IISSI2-IS-2024/Soluciones-examen-junio-2024/compare/Descuentos?expand=1
+
 https://github.com/IISSI2-IS-2024/Soluciones-examen-junio-2024/compare/Pinned-restaurant?expand=1
+
 https://github.com/IISSI2-IS-2024/Soluciones-examen-junio-2024/compare/Visibilidad?expand=1
+
 https://github.com/IISSI2-IS-2024/Simulacro-Examen.git
 
 # Examen Simulacro
